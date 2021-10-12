@@ -1,3 +1,6 @@
+.vscode
+.cdsrc.json
+
 # Logs
 logs
 *.log
