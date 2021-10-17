@@ -1,5 +1,7 @@
 .vscode
 .cdsrc.json
+gen/
+*.mtar
 
 # Logs
 logs
